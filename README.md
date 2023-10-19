@@ -1,6 +1,6 @@
 Backend application live link:
 
-    https://play-zone-backend.vercel.app/
+   [PlayZone Live Site](https://play-zone-backend.vercel.app/) 
 
 ```sh
 # Service Booking and Management Website Backend
@@ -121,9 +121,5 @@ Our app about Service Booking and Management Website project! The application na
 
 - Adding and managing admin users with role management.
 - Profile management for super admins.
-
-```
-
-```sh
 
 ```
