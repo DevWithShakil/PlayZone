@@ -1,6 +1,11 @@
 Backend application live link:
 
-   [PlayZone Live Site](https://play-zone-backend.vercel.app/) 
+[PlayZone Live Site](https://play-zone-backend.vercel.app/)
+
+Admin Crediential:
+
+email: mdshakil.khan8032@gmail.com
+password: 123456
 
 ```sh
 # Service Booking and Management Website Backend
